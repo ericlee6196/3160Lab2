@@ -1,0 +1,4 @@
+I used Java for all 3 problems in this Lab assignment.
+I chose Java simply because that's the language I've used the most during my time at Brooklyn College
+The difficulty I had was for part 3. I don't have any experience at all doing things like that and had to look around online for how to do the assignment.
+At this point, I wouldn't use another language to these assignments
